@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Royal Realty]]></title>
         <description><![CDATA[Royal Realty]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/royal-realty/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 01:42:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 01:49:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/royal-realty/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Royal Realty Co.]]></title>
+            <description><![CDATA[<article><h1>Welcome to Royal Realty Co.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/85310981-d384-41ca-a402-a12b0c602f39.jpg"></article>]]></description>
+            <link>https://thegrid.ai/royal-realty/welcome-to-royal-realty-co/index.html</link>
+            <guid isPermaLink="false">17635e19-9453-4a2e-b9b7-5bd8cb62856a</guid>
+            <pubDate>Fri, 19 Feb 2016 01:46:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>© 2016 Royal Realty, Inc. </p>]]></description>
-            <link>undefined926ca7dd-cfe0-4e1b-8deb-064c7f98f3f1/index.html</link>
+            <link>https://thegrid.ai/royal-realty/926ca7dd-cfe0-4e1b-8deb-064c7f98f3f1/index.html</link>
             <guid isPermaLink="false">926ca7dd-cfe0-4e1b-8deb-064c7f98f3f1</guid>
             <pubDate>Fri, 19 Feb 2016 01:42:34 GMT</pubDate>
         </item>
