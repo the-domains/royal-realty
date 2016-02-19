@@ -1,6 +1,6 @@
 name: Royal Realty
 favicon: null
-layout_spectrum: 0.5506888928357512
+layout_spectrum: 0.75049
 typography_spectrum: 0.5194279905408621
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#d0d0d0'
     - '#7f7f7f'
   brandStrength: 0
-  lightness: 1
+  lightness: 0.5625
   saturation: 0.43619675002992153
   rhythmicContrast: 0.5429037737194449
 purpose: []
